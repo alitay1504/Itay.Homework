@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itay Homework", "Itay's Homework\Itay Homework.csproj", "{61DA1692-3909-4EC2-8085-71C61A0D5457}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework.OOP", "Homework.OOP\Homework.OOP.csproj", "{839D4D8F-0D55-4AA9-99C8-47D2C0FE85D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61DA1692-3909-4EC2-8085-71C61A0D5457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61DA1692-3909-4EC2-8085-71C61A0D5457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61DA1692-3909-4EC2-8085-71C61A0D5457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61DA1692-3909-4EC2-8085-71C61A0D5457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{839D4D8F-0D55-4AA9-99C8-47D2C0FE85D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{839D4D8F-0D55-4AA9-99C8-47D2C0FE85D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{839D4D8F-0D55-4AA9-99C8-47D2C0FE85D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{839D4D8F-0D55-4AA9-99C8-47D2C0FE85D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6093EC5-72D9-4CFF-9ACD-B8E606431AB0}
+	EndGlobalSection
+EndGlobal
